@@ -1,10 +1,10 @@
-# diseases
+# mProvMEds-Mobile-Flutter-ML-App
 
-A new Flutter project.
+Version : 1.0.0
+
+A Flutter - Flask (API) based Mobile Application for the "Disease Prediction Machine Learning and outbreaking System" Project.
 
 ## Getting Started
-
-
 
 This project is a starting point for a Flutter application.
 
